@@ -2,6 +2,7 @@ miles_integer, miles_fraction = int(input("")), int(input(""))
 miles = float(f'{miles_integer}.{miles_fraction}')
 kilometers = miles * 1.61
 # КОММЕНТАРИЙ: если результат округления должен быть использован где-то ещё, тогда используете функцию round(); в данном случае выгоднее воспользоваться синтаксисом f-строк
+# Спасибо за комментарий!
 kilometers = round(kilometers, 1)
 print(f"{miles} миль = {kilometers} км")
 
