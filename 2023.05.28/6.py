@@ -8,3 +8,15 @@ if diff_x <= 1 and diff_y <= 1:
     print("да")
 else:
     print("нет")
+
+# a4
+# f4
+# нет
+
+# b3
+# a2
+# да
+
+# f3
+# e7
+# нет

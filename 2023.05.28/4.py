@@ -8,3 +8,11 @@ if color1 == color2:
     print("да")
 else:
     print("нет")
+
+# a1
+# b4
+# да
+
+# a3
+# c4
+# нет

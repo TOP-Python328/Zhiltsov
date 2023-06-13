@@ -5,3 +5,9 @@ for _ in range(3):
         total_sum += num
 
 print(total_sum)
+
+# 4
+# 10
+# -3
+
+# 14
